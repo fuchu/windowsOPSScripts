@@ -5,5 +5,5 @@
 ## 使用方法
 计划任务[本脚本] [路径1] [路径2]
 ## Tips:
- 1.根据https://www.iis.net/learn/manage/provisioning-and-managing-iis/managing-iis-log-file-storage#02改写，
- 2.根据的是文件的创建时间
+ 1. 根据https://www.iis.net/learn/manage/provisioning-and-managing-iis/managing-iis-log-file-storage#02改写，
+ 2. 根据的是文件的创建时间
